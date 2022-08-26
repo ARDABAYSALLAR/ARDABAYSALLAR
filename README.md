@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **3D Heatmap, Audio Analytics, Machine Learning**
 
-- 🌱 I’m currently learning **DeepLearning, Data Visualisation, Cloud**
+- 🌱 I’m currently learning **DeepLearning, Cloud**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
